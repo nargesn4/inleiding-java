@@ -6,11 +6,9 @@ import java.awt.*;
 
 public class StaafDigram extends Show {
 
-    public void init() {
-    }
 
     public void paint(Graphics g) {
-
+        setBackground(Color.white);
         g.setColor(Color.red);
         g.fillRect(50, 150, 40, 100);
         g.setColor(Color.BLUE);

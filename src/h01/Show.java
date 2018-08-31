@@ -11,7 +11,7 @@ public class Show extends Applet {
     //een methode die de inhoud van het scherm tekent
     public void paint(Graphics g) {
         g.setColor(Color.yellow);
-        g.drawString("Welcome to Java narges!!", 100, 60 );
+        g.drawString("Welcome to Aaplet Java narges!!", 100, 60 );
 
     }
 

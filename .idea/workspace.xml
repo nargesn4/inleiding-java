@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70bc0df4-b0ea-41c9-a681-4de74604177b" name="Default" comment="" />
+    <list default="true" id="70bc0df4-b0ea-41c9-a681-4de74604177b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/h10/Opdracht3.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,20 +24,6 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#167#168#0" expanded="true" />
                 <element signature="e#208#209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Opdracht1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h08/Opdracht1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +58,7 @@
       <file leaf-file-name="PraktijkOpdracht.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/h08/PraktijkOpdracht.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="1547">
               <caret line="94" column="34" lean-forward="false" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,8 +70,8 @@
       <file leaf-file-name="Opdracht1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/h10/Opdracht1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="544">
+              <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#399#400#0" expanded="true" />
@@ -92,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opdracht2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Opdracht2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/h10/Opdracht2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -104,10 +93,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Opdracht3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/h10/Opdracht3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="EventQueue.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.desktop/java/awt/EventQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="11543">
               <caret line="735" column="0" lean-forward="false" selection-start-line="735" selection-start-column="0" selection-end-line="735" selection-end-column="0" />
               <folding />
             </state>
@@ -117,7 +118,7 @@
       <file leaf-file-name="EventDispatchThread.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.desktop/java/awt/EventDispatchThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="918">
               <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding />
             </state>
@@ -182,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/h10/Test.java" />
         <option value="$PROJECT_DIR$/src/h10/Opdracht1.java" />
         <option value="$PROJECT_DIR$/src/h10/Opdracht2.java" />
+        <option value="$PROJECT_DIR$/src/h10/Opdracht3.java" />
       </list>
     </option>
   </component>
@@ -212,7 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,9 +237,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.Opdracht2">
+  <component name="RunManager" selected="Applet.Opdracht3">
     <configuration name="Opdracht1" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="h10.Opdracht1" />
@@ -279,9 +281,9 @@
         <option name="moduleName" value="inleiding-java" />
       </module>
     </configuration>
-    <configuration name="Opdracht3 (1)" type="Applet" factoryName="Applet" temporary="true">
+    <configuration name="Opdracht3" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="h08.Opdracht3" />
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht3" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -411,19 +413,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.HalloRocDev" />
-      <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht3 (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.PraktijkOpdracht (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht1" />
-      <item index="4" class="java.lang.String" itemvalue="Applet.Test" />
-      <item index="5" class="java.lang.String" itemvalue="Applet.Opdracht2" />
+      <item index="1" class="java.lang.String" itemvalue="Applet.PraktijkOpdracht (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht1" />
+      <item index="3" class="java.lang.String" itemvalue="Applet.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht2" />
+      <item index="5" class="java.lang.String" itemvalue="Applet.Opdracht3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.Opdracht2" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht1" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Applet.PraktijkOpdracht (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht3 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Applet.Opdracht3" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht2" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht1" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.Test" />
+        <item index="4" class="java.lang.String" itemvalue="Applet.PraktijkOpdracht (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +446,8 @@
       <workItem from="1535559839331" duration="11129000" />
       <workItem from="1535618747249" duration="16387000" />
       <workItem from="1535706468727" duration="18771000" />
-      <workItem from="1535784875820" duration="20119000" />
+      <workItem from="1535784875820" duration="20316000" />
+      <workItem from="1535893861830" duration="2213000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1535534911237</created>
@@ -471,7 +474,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74817000" />
+    <option name="totallyTimeSpent" value="77227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -525,18 +528,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/h08/Opdracht3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/h06/Opdracht3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -618,9 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -628,9 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,9 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,9 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,9 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,9 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,11 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -853,9 +818,9 @@
         <state relative-caret-position="663">
           <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#766#767#0" expanded="false" />
+            <element signature="e#815#816#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -904,7 +869,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h08/PraktijkOpdracht.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
+        <state relative-caret-position="1547">
           <caret line="94" column="34" lean-forward="false" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -912,17 +877,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h10/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="31" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h10/Test.java" />
     <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.desktop/java/awt/EventQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="11543">
           <caret line="735" column="0" lean-forward="false" selection-start-line="735" selection-start-column="0" selection-end-line="735" selection-end-column="0" />
           <folding />
         </state>
@@ -930,7 +888,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.desktop/java/awt/EventDispatchThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="918">
           <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding />
         </state>
@@ -938,8 +896,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h10/Opdracht1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="544">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#399#400#0" expanded="true" />
@@ -952,6 +910,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h10/Opdracht3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

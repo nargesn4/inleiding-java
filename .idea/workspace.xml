@@ -453,7 +453,7 @@
       <workItem from="1535706468727" duration="18771000" />
       <workItem from="1535784875820" duration="20316000" />
       <workItem from="1535893861830" duration="10301000" />
-      <workItem from="1535959400700" duration="3195000" />
+      <workItem from="1535959400700" duration="3222000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1535534911237</created>
@@ -497,11 +497,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535962180297</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="h10 PraktijkOpdracht">
+      <created>1535963423809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1535963423809</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88510000" />
+    <option name="totallyTimeSpent" value="88537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -551,7 +558,8 @@
     <MESSAGE value="h10 opdracht3" />
     <MESSAGE value="h10 opdracht4" />
     <MESSAGE value="h10 opdracht5" />
-    <option name="LAST_COMMIT_MESSAGE" value="h10 opdracht5" />
+    <MESSAGE value="h10 PraktijkOpdracht" />
+    <option name="LAST_COMMIT_MESSAGE" value="h10 PraktijkOpdracht" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

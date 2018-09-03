@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70bc0df4-b0ea-41c9-a681-4de74604177b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/h10/Opdracht5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/h10/PraktijkOpdracht.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -91,13 +91,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opdracht5.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Opdracht5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/h10/Opdracht5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PraktijkOpdracht.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/h10/PraktijkOpdracht.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,16 +132,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="918">
               <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HalloRocDev.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h01/HalloRocDev.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -184,6 +188,7 @@
         <option value="$PROJECT_DIR$/src/h10/Opdracht3.java" />
         <option value="$PROJECT_DIR$/src/h10/Opdracht4.java" />
         <option value="$PROJECT_DIR$/src/h10/Opdracht5.java" />
+        <option value="$PROJECT_DIR$/src/h10/PraktijkOpdracht.java" />
       </list>
     </option>
   </component>
@@ -260,17 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.Opdracht5">
-    <configuration name="Opdracht1" type="Applet" factoryName="Applet" temporary="true">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="h10.Opdracht1" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="inleiding-java">
-        <option name="moduleName" value="inleiding-java" />
-      </module>
-    </configuration>
+  <component name="RunManager" selected="Applet.PraktijkOpdracht">
     <configuration name="Opdracht2" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="h10.Opdracht2" />
@@ -304,6 +299,16 @@
     <configuration name="Opdracht5" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="h10.Opdracht5" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module name="inleiding-java">
+        <option name="moduleName" value="inleiding-java" />
+      </module>
+    </configuration>
+    <configuration name="PraktijkOpdracht" type="Applet" factoryName="Applet" temporary="true">
+      <option name="HTML_USED" value="false" />
+      <option name="MAIN_CLASS_NAME" value="h10.PraktijkOpdracht" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -413,19 +418,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.HalloRocDev" />
-      <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht1" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht2" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht3" />
-      <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht4" />
-      <item index="5" class="java.lang.String" itemvalue="Applet.Opdracht5" />
+      <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht2" />
+      <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht3" />
+      <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht4" />
+      <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht5" />
+      <item index="5" class="java.lang.String" itemvalue="Applet.PraktijkOpdracht" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.Opdracht5" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht4" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht3" />
-        <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht2" />
-        <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht1" />
+        <item index="0" class="java.lang.String" itemvalue="Applet.PraktijkOpdracht" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht5" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht4" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht3" />
+        <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht2" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +453,7 @@
       <workItem from="1535706468727" duration="18771000" />
       <workItem from="1535784875820" duration="20316000" />
       <workItem from="1535893861830" duration="10301000" />
-      <workItem from="1535959400700" duration="1956000" />
+      <workItem from="1535959400700" duration="3195000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1535534911237</created>
@@ -485,11 +490,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535903491855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="h10 opdracht5">
+      <created>1535962180297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1535962180297</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87271000" />
+    <option name="totallyTimeSpent" value="88510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -538,23 +550,14 @@
     <MESSAGE value="h08 praktijkopdracht" />
     <MESSAGE value="h10 opdracht3" />
     <MESSAGE value="h10 opdracht4" />
-    <option name="LAST_COMMIT_MESSAGE" value="h10 opdracht4" />
+    <MESSAGE value="h10 opdracht5" />
+    <option name="LAST_COMMIT_MESSAGE" value="h10 opdracht5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/h08/PraktijkOpdracht.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/h01/Show.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -916,6 +919,18 @@
           <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h10/PraktijkOpdracht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
           </folding>
         </state>
       </provider>

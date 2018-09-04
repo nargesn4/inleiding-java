@@ -18,7 +18,7 @@ public class Opdracht5 extends Show {
             g.drawRect(x, y, 40, 40);
             x+=40;
             y+=40;
-            
+
         }
     }
 }

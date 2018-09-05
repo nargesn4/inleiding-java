@@ -4,7 +4,7 @@ import h01.Show;
 
 import java.awt.*;
 import java.awt.event.*;
-public class Opdracht4 extends Show {
+public class Opdracht4en5 extends Show {
         boolean gevonden;
         int[] getallen ;
        int gezocht, index;
@@ -35,6 +35,7 @@ public class Opdracht4 extends Show {
                 if(getallen[teller] == gezocht) {
                     gevonden = true;
                     index =getallen[teller];
+                    break;
                 }
                 teller ++;
             }

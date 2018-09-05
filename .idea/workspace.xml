@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70bc0df4-b0ea-41c9-a681-4de74604177b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/h12/Opdracht4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/h12/Opdracht6.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/h12/PraktijkOpdracht.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/h12/Opdracht4.java" afterPath="$PROJECT_DIR$/src/h12/Opdracht4en5.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +17,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Opdracht4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/h12/Opdracht4.java">
+      <file leaf-file-name="Opdracht4en5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h12/Opdracht4en5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="162">
+              <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Opdracht6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/h12/Opdracht6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PraktijkOpdracht.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/h12/PraktijkOpdracht.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="53" column="101" lean-forward="false" selection-start-line="53" selection-start-column="101" selection-end-line="53" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,39 +66,9 @@
         </entry>
       </file>
       <file leaf-file-name="Opdracht2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h02/Opdracht2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h04/Dice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PraktijkOpdracht.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h04/PraktijkOpdracht.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="22" column="61" lean-forward="true" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Opdracht2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/h06/Opdracht2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="391">
               <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
               <folding />
             </state>
@@ -90,7 +88,7 @@
       <file leaf-file-name="ProtectionDomain.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/security/ProtectionDomain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="816">
               <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
@@ -100,7 +98,7 @@
       <file leaf-file-name="EventQueue.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.desktop/java/awt/EventQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="11543">
               <caret line="735" column="0" lean-forward="false" selection-start-line="735" selection-start-column="0" selection-end-line="735" selection-end-column="0" />
               <folding />
             </state>
@@ -111,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/h08/Opdracht1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -138,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/h01/HalloRocDev.java" />
         <option value="$PROJECT_DIR$/src/Applet.java" />
         <option value="$PROJECT_DIR$/src/h01/Opdracht2.java" />
         <option value="$PROJECT_DIR$/src/h4/Opdracht1.java" />
@@ -184,9 +181,12 @@
         <option value="$PROJECT_DIR$/src/h11/PraktijkOpdracht1.java" />
         <option value="$PROJECT_DIR$/src/h12/Opdracht1.java" />
         <option value="$PROJECT_DIR$/src/h12/Opdracht2.java" />
-        <option value="$PROJECT_DIR$/src/h12/Test.java" />
         <option value="$PROJECT_DIR$/src/h12/Opdracht3.java" />
         <option value="$PROJECT_DIR$/src/h12/Opdracht4.java" />
+        <option value="$PROJECT_DIR$/src/h12/Opdracht4en5.java" />
+        <option value="$PROJECT_DIR$/src/h12/Opdracht6.java" />
+        <option value="$PROJECT_DIR$/src/h12/Test.java" />
+        <option value="$PROJECT_DIR$/src/h12/PraktijkOpdracht.java" />
       </list>
     </option>
   </component>
@@ -218,7 +218,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -242,6 +241,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -263,27 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.Opdracht4">
-    <configuration name="Opdracht1" type="Applet" factoryName="Applet" temporary="true">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="h12.Opdracht1" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="inleiding-java">
-        <option name="moduleName" value="inleiding-java" />
-      </module>
-    </configuration>
-    <configuration name="Opdracht2" type="Applet" factoryName="Applet" temporary="true">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="h12.Opdracht2" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="inleiding-java">
-        <option name="moduleName" value="inleiding-java" />
-      </module>
-    </configuration>
+  <component name="RunManager" selected="Applet.PraktijkOpdracht">
     <configuration name="Opdracht3" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="h12.Opdracht3" />
@@ -296,7 +276,27 @@
     </configuration>
     <configuration name="Opdracht4" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="h12.Opdracht4" />
+      <option name="MAIN_CLASS_NAME" value="h12.Opdracht4en5" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module name="inleiding-java">
+        <option name="moduleName" value="inleiding-java" />
+      </module>
+    </configuration>
+    <configuration name="Opdracht6" type="Applet" factoryName="Applet" temporary="true">
+      <option name="HTML_USED" value="false" />
+      <option name="MAIN_CLASS_NAME" value="h12.Opdracht6" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module name="inleiding-java">
+        <option name="moduleName" value="inleiding-java" />
+      </module>
+    </configuration>
+    <configuration name="PraktijkOpdracht" type="Applet" factoryName="Applet" temporary="true">
+      <option name="HTML_USED" value="false" />
+      <option name="MAIN_CLASS_NAME" value="h12.PraktijkOpdracht" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -416,19 +416,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.HalloRocDev" />
-      <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht1" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht2" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht3" />
-      <item index="4" class="java.lang.String" itemvalue="Applet.Test" />
-      <item index="5" class="java.lang.String" itemvalue="Applet.Opdracht4" />
+      <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht3" />
+      <item index="2" class="java.lang.String" itemvalue="Applet.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht4" />
+      <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht6" />
+      <item index="5" class="java.lang.String" itemvalue="Applet.PraktijkOpdracht" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.Opdracht4" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht3" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht2" />
-        <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht1" />
+        <item index="0" class="java.lang.String" itemvalue="Applet.PraktijkOpdracht" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht6" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht4" />
+        <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht3" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +454,8 @@
       <workItem from="1535959400700" duration="13062000" />
       <workItem from="1536045868141" duration="16963000" />
       <workItem from="1536069919884" duration="14278000" />
-      <workItem from="1536118716960" duration="3932000" />
+      <workItem from="1536118716960" duration="4080000" />
+      <workItem from="1536131983921" duration="5793000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1535534911237</created>
@@ -547,11 +548,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536084256649</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="h12,opdracht4">
+      <created>1536122686816</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1536122686816</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133550000" />
+    <option name="totallyTimeSpent" value="139491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -607,27 +615,14 @@
     <MESSAGE value="h11 opdracht4,6,7,8,9" />
     <MESSAGE value="h11 praktijkOpdracht" />
     <MESSAGE value="h12,opdracht1,2,3" />
-    <option name="LAST_COMMIT_MESSAGE" value="h12,opdracht1,2,3" />
+    <MESSAGE value="h12,opdracht4" />
+    <option name="LAST_COMMIT_MESSAGE" value="h12,opdracht4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/h02/Opdracht2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/h04/Opdracht4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Applet.java" />
     <entry file="file://$PROJECT_DIR$/src/h4/Opdracht1.java" />
     <entry file="file://$PROJECT_DIR$/src/h01/opdracht4.2.js" />
@@ -757,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="35" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="9" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,9 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,9 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,19 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/h12/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,7 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,9 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="25" column="5" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -867,9 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -877,9 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -887,9 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,7 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,15 +878,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h04/PraktijkOpdracht.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="22" column="61" lean-forward="true" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+        <state relative-caret-position="340">
+          <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h06/Opdracht2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="391">
           <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
           <folding />
         </state>
@@ -944,14 +903,14 @@
     <entry file="file://$PROJECT_DIR$/src/h08/Opdracht1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/security/ProtectionDomain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="816">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
@@ -959,7 +918,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.desktop/java/awt/EventQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="11543">
           <caret line="735" column="0" lean-forward="false" selection-start-line="735" selection-start-column="0" selection-end-line="735" selection-end-column="0" />
           <folding />
         </state>
@@ -973,10 +932,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h12/Opdracht4.java">
+    <entry file="file://$PROJECT_DIR$/src/h12/Opdracht4en5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="162">
+          <caret line="37" column="26" lean-forward="false" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h12/Opdracht6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h12/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="71" column="4" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h12/PraktijkOpdracht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="53" column="101" lean-forward="false" selection-start-line="53" selection-start-column="101" selection-end-line="53" selection-end-column="101" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

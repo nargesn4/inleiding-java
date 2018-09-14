@@ -102,15 +102,15 @@ public class PraktijkOpdracht extends Show {
     public void playHuman() {
         s = tekstVak.getText();
         getal = Integer.parseInt(s);
-        if (lucifers-getal<=0) {
-            lucifers-=getal;
-            eindGame();
-        }
-        else if ((getal > 3) || (getal < 1)) {
+        if ((getal > 3) || (getal < 1)) {
             tekst = "You can pick 1,2 or 3 sticks";
             tekstVak.setText("");
             repaint();
-        } else if ((getal == 1) || (getal == 2) || (getal == 3)) {
+        }
+         else if (lucifers-getal<=0) {
+            lucifers-=getal;
+            eindGame();
+        }else if ((getal == 1) || (getal == 2) || (getal == 3)) {
             switch (getal) {
                 case 1:
                     lucifers--;
